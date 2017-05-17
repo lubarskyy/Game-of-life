@@ -1,0 +1,26 @@
+{
+  "name": "game_of_life",
+  "version": "1.0.0",
+  "description": "Game of life simulation based on Mr.Conway mathematical assumptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubarskyy/Game-of-life.git"
+  },
+  "author": "CodersLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubarskyy/Game-of-life.git/issues"
+  },
+  "homepage": "https://github.com/lubarskyy/Game-of-life.git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.8",
+    "webpack": "^2.3.3"
+  }
+}
