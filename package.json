@@ -20,7 +20,6 @@
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
-    "gulp-util": "^3.0.8",
-    "webpack": "^2.3.3"
+    "gulp-util": "^3.0.8"
   }
 }
