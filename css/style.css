@@ -42,3 +42,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.iterations-counter {
+  text-align: center;
+  width:
+}
+
+.counter {
+  color: crimson;
+}
