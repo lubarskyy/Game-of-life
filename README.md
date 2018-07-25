@@ -1,5 +1,5 @@
 # Info
-Live demo - http://lubarski.pl/game-of-life
+Live demo - https://lubarskyy.github.io/Game-of-life/
 
 My adaptation of popular one player game - John Conway's **Game of Life**. This is my second game created using JavaScript, main goal of this exercise was to introduce me to OOP.
 
